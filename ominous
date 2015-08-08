@@ -1,0 +1,5 @@
+<object type="application/x-shockwave-flash" data="http://flash-mp3-player.net/medias/player_mp3_multi.swf" width="200" height="100">
+    <param name="movie" value="http://flash-mp3-player.net/medias/player_mp3_multi.swf" />
+    <param name="bgcolor" value="#ffffff" />
+    <param name="FlashVars" value="mp3=" />
+</object>https://www.youtube.com/watch?v=qLD8z6H84Lc
